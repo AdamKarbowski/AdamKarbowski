@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Adam! I'm from New York and I love buffalo chicken pizza. I hope to master my computer science skills while pursuing a career in electrical engineering. I am interested in motorsports, running, mountain biking, and programming. I am a student at FHHS and have taken AP Computer Science A class.
 
 <!--
 **AdamKarbowski/AdamKarbowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
